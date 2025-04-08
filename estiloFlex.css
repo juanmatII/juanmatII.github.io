@@ -1,0 +1,17 @@
+.contenedor{
+    display: flex;
+    justify-content: space-around;
+}
+.item{
+    width: 30%;
+    background-color: rgb(223, 226, 178);
+    padding: 1%;
+}
+#titulo{
+    text-align: center;
+}
+.contenedorImg1{
+    display: flex;
+    justify-content: space-around;
+    padding: 3%;
+}
