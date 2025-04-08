@@ -1,0 +1,16 @@
+body{
+    background-color: blanchedalmond;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h1{
+    background-color: rgb(201, 180, 152);
+    font-size: xx-large;
+    font-style: oblique;
+}
+h2, h3, h4, h5, h6{
+    background-color: antiquewhite;
+}
+
+p{
+    background-color: beige;
+}
