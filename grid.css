@@ -1,0 +1,21 @@
+.container{
+    display: grid;
+    grid-template-columns: auto auto auto; 
+    gap: 1%;   
+    
+}
+.item{
+    background-color: bisque;
+    padding: 0.5rem;
+
+}
+a:hover{
+    background-color: brown;
+    color: aliceblue;
+}
+.boton{
+    text-align: center;
+}
+button:hover{
+    
+}
