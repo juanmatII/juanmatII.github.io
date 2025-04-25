@@ -1,0 +1,24 @@
+body {
+    background-color: #1e1e2f;
+    color: rgb(255, 255, 255);
+  }
+  
+  .card {
+    background-color: #292946;
+    border: none;
+    color: aliceblue;
+  }
+  
+  .btn-custom {
+    background-color: #ff69b4;
+    color: white;
+    border: none;
+  }
+  
+  .btn-custom:hover {
+    background-color: #ff85c1;
+  }
+  .mb-3{
+    text-align: center;
+    
+  }
