@@ -1,0 +1,30 @@
+.teclado{
+    margin-top: 5%;
+    display: grid;
+    grid-template-columns: 42px 42px 42px 42px;
+    grid-template-rows: 42px 42px 42px 42px 42px;
+    grid-column-gap: 10%;
+    grid-row-gap: 10%;
+}
+body{
+    background-color: rgb(205, 220, 255);
+}
+.contenedor { 
+    background-color: rgb(176, 189, 253);
+    text-align: center;
+    margin-top: 10%;
+    margin-left: 40%;
+    margin-right: 40%;
+    padding: 0.5rem;
+    padding-bottom: 5.5rem;
+    border: solid 0.1rem;
+
+
+}
+
+button{
+    background-color: rgba(250, 235, 215, 0);
+    border: none;
+    font-size: 1.5rem;
+    
+}
